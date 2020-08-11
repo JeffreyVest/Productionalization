@@ -1,0 +1,14 @@
+.gear {
+    width: 20px;
+    vertical-align: middle;
+}
+
+.prod-count {
+    font-size: 12px;
+}
+
+.prod-inc {
+    width: 20px;
+    padding: 0;
+    vertical-align: middle;
+}
