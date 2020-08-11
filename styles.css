@@ -1,10 +1,13 @@
 .gear {
     width: 20px;
     vertical-align: middle;
+    filter: hue-rotate(200deg) brightness(150%) saturate(200%);
 }
 
 .prod-count {
     font-size: 12px;
+    min-width: 20px;
+    display: inline-block;
 }
 
 .prod-inc {
